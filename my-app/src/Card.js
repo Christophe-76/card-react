@@ -5,6 +5,9 @@ import './Card.css';
 import './display.css';
 import React from 'react';
 
+// creation des props pour le produit
+// le type, son titre, sa description, son prix, prix réduit, le bouton, les images
+
 function ProdType(props) {
     return <header className="header">{props.name}</header>;
   }

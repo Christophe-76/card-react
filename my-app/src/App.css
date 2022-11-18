@@ -1,13 +1,6 @@
 
 /*
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+creation du css pour la partie App
 */
 .App {
   text-align: center;
